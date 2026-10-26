@@ -1,4 +1,16 @@
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: crimson; 
+    color: rgb(179, 43, 70); 
+}
+
+body {
+    background-color: rgb(185, 185, 184);
+    border: 6px solid rgb(49, 49, 8);
+    border-radius: 3px;
+}
+
+.main-content {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(9, 96, 99); 
+    font-size: larger;
 }
