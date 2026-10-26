@@ -14,3 +14,7 @@ body {
     color: rgb(9, 96, 99); 
     font-size: larger;
 }
+
+footer {font-size: smaller;
+color: aliceblue;
+}
