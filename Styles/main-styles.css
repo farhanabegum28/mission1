@@ -4,7 +4,7 @@ h1 {
 }
 
 body {
-    color: rgb(49, 153, 118);
+    background-color: rgb(49, 153, 118);
     border: 6px solid rgb(49, 49, 8);
     border-radius: 3px;
 }
